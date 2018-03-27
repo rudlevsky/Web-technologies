@@ -1,0 +1,35 @@
+.block {
+position: absolute;
+top: 50%;
+left: 50%;
+margin-top: -100px;
+margin-left: -100px; 
+}
+
+.cal {
+border: 1px solid #ccc;
+color: #333;
+background: #F6F6F6;
+font: Arial;
+font-size: 14px;
+text-align: center;
+}
+
+.calend {
+font: Arial;
+font-size: 14px;
+text-align: center;
+font-weight: bold;
+}
+
+.nav {
+font: Arial;
+font-size: 16px;
+font-weight: bold;
+}
+
+.dat {
+font: Arial;
+font-size: 16px;
+font-weight: bold;
+}
