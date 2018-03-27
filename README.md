@@ -30,4 +30,4 @@ In an arbitrary text all e-mail addresses should be displayed in red and brought
 
 Лабораторное задание #4.
 
-В произвольном тексте все e-mail адреса вывести красным цветом и привести к виду <a href="mailto:EMAIL">EMAIL</a>.
+В произвольном тексте все e-mail адреса вывести красным цветом и привести к виду a href="mailto:EMAIL">EMAIL</a>.
