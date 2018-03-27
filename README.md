@@ -14,7 +14,7 @@ Write a function that forms the calendar for the school year with the number of 
 
 Laboratory task #4.
 
-In an arbitrary text all e-mail addresses should be displayed in red and brought to the form <a href="mailto:EMAIL"> EMAIL </a>.
+In an arbitrary text all e-mail addresses should be displayed in red and brought to the form a href="mailto:EMAIL"> EMAIL </a>.
 
 Лабораторное задание #1. 
 
