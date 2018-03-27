@@ -1,0 +1,173 @@
+﻿
+body {
+	background-image: url("derevo.jpg");
+	background-size: cover;
+}
+
+div.fir {
+	height: 60vh;
+}
+
+.the_sam {
+	width: 70%;
+	height: 60vh;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+}
+
+.in {
+	display: block;
+	width: 100%;
+	height: 100%;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #CD853F;
+	border-radius: 10px;
+}
+
+.pos1 {
+	left: 30%;
+	top: 40%;
+}
+
+.pos2 {
+	left: 45%;
+	top: 40%;
+}
+
+.pos3 {
+	left: 40%;
+	top: 40%;
+}
+
+.pos4 {
+	left: 30%;
+	top: 40%;
+}
+
+div.tex {
+	position: absolute;
+	font-family: Monotype Corsiva;
+	font-size: 5vw;
+	text-align: center;
+	color: white;
+	opacity: 0.8;
+}
+
+div.the_same {
+	border-width: 3px;
+	border-style: solid;
+	border-color: #CD853F;
+	border-radius: 10px;
+	background-color: #eeefef;
+	overflow: hidden;
+}
+
+div.textt {
+	width: 45%;
+	height: 28vh;
+	margin-bottom: 4%;
+	margin-left: 15%;	
+}
+
+div.blocks {
+	margin-top: 3%;	
+}
+
+div.menu {
+	width: 20%;
+	height: 28vh;
+	float: right;
+	margin-right: 15%;
+}
+	
+div.fact {
+	width: 20%;
+	height: 28vh;
+	float: right;
+	margin-right: 15%;
+}
+
+p {
+	font-family: "tahoma";
+	font-size: 1vw;
+	padding: 2%;
+}
+
+.bordd {
+	display: block;
+	height: 20vh;
+	width: 34%;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #CD853F;
+	border-radius: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.bort {
+	float: left;
+}
+
+.bord {
+	float: right;	
+}
+
+.beu {
+	font-family: Monotype Corsiva;
+	font-size: 160%;
+}
+
+.kl {
+	margin-left: 28%;
+}
+
+.k2 {
+	margin-left: 33%;
+}
+
+h3 {
+	text-align: center;
+	font-size: 2.5vh;
+	color: gray;
+}
+
+.pi {
+	margin-left: 4%;
+}
+
+li {
+	list-style-type: none;	
+	font-family: Monotype Corsiva;
+	font-size: 1.5vw;
+}
+
+a {
+	text-decoration: none;	
+	color: #000;
+}
+
+a:hover {
+	color: #CD853F;
+}
+
+.change:hover {
+	width: 50%;
+}
+
+.mains {
+	margin-bottom: 4%;
+	margin-left: 15%;	
+	width: 45%;
+}
+
+.main {
+	height: 55vh;
+}
+
+.main1 {
+	height: 73vh;
+}
