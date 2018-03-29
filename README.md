@@ -20,8 +20,6 @@ Laboratory task #5.
 
 Write a script that allows you to execute an arbitrary query to the DBMS or a series of random requests, after which it displays the result of the query and statistics: run time, used RAM. Request or a series of requests to receive via web forms.
 
-
-
 Лабораторное задание #1. 
 
 Создать простой сайт, используя html.
