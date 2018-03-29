@@ -16,6 +16,12 @@ Laboratory task #4.
 
 In an arbitrary text all e-mail addresses should be displayed in red and brought to the form a href="mailto:EMAIL"> EMAIL </a>.
 
+Laboratory task #5.
+
+Write a script that allows you to execute an arbitrary query to the DBMS or a series of random requests, after which it displays the result of the query and statistics: run time, used RAM. Request or a series of requests to receive via web forms.
+
+
+
 Лабораторное задание #1. 
 
 Создать простой сайт, используя html.
@@ -31,3 +37,7 @@ In an arbitrary text all e-mail addresses should be displayed in red and brought
 Лабораторное задание #4.
 
 В произвольном тексте все e-mail адреса вывести красным цветом и привести к виду a href="mailto:EMAIL">EMAIL</a>.
+
+Лабораторное задание #5.
+
+Написать скрипт, позволяющий выполнить произвольный запрос к СУБД или серию произвольных запросов, после чего отображающий результат выполнения запроса и статистику: время выполнения, использованная оперативная память. Запрос или серию запросов получать через веб-формы.
