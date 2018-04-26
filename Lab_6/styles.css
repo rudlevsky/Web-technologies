@@ -1,0 +1,31 @@
+.Block
+{
+	background-color: #eee;
+	border: 7px outset;
+	border-color: Bisque;
+	border-radius: 10px;
+	margin: 2% 80% 0 2%;
+}
+
+.Day
+{
+	background-color: #eee;
+	border: 4px outset;
+	border-radius: 10px;
+	border-color: Bisque;
+	margin: 15px;
+}
+
+.Date
+{
+	font-size: 16px;
+	font-weight: bold;
+	margin-left: 25%;
+}
+
+.Info
+{
+	font-size: 13px;
+	margin-left: 5%;
+	font-family: sans-serif;
+}

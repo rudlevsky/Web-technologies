@@ -20,6 +20,10 @@ Laboratory task #5.
 
 Write a script that allows you to execute an arbitrary query to the DBMS or a series of random requests, after which it displays the result of the query and statistics: run time, used RAM. Request or a series of requests to receive via web forms.
 
+Laboratory task #6.
+
+Write a script that forms a block with exchange rates for yesterday and today. To display the entire block, an individual day, and the entire page, use templates.
+
 Лабораторное задание #1. 
 
 Создать простой сайт, используя html.
@@ -39,3 +43,7 @@ Write a script that allows you to execute an arbitrary query to the DBMS or a se
 Лабораторное задание #5.
 
 Написать скрипт, позволяющий выполнить произвольный запрос к СУБД или серию произвольных запросов, после чего отображающий результат выполнения запроса и статистику: время выполнения, использованная оперативная память. Запрос или серию запросов получать через веб-формы.
+
+Лабораторное задание #6.
+
+Написать скрипт, формирующий блок с курсами валют за вчера и сегодня. Для отображения всего блока, отдельного дня и формирования всей страницы использовать шаблоны.
