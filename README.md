@@ -24,6 +24,10 @@ Laboratory task #6.
 
 Write a script that forms a block with exchange rates for yesterday and today. To display the entire block, an individual day, and the entire page, use templates.
 
+Laboratory task #7.
+
+Write a script that allows the user to install arbitrary cookies (with arbitrary name and value, for an arbitrary period), view the list of installed cookies.
+
 Лабораторное задание #1. 
 
 Создать простой сайт, используя html.
@@ -47,3 +51,7 @@ Write a script that forms a block with exchange rates for yesterday and today. T
 Лабораторное задание #6.
 
 Написать скрипт, формирующий блок с курсами валют за вчера и сегодня. Для отображения всего блока, отдельного дня и формирования всей страницы использовать шаблоны.
+
+Лабораторное задание #7.
+
+Написать скрипт, позволяющий установить пользователю произвольную куки (с произвольным именем и значением, на произвольный срок), просмотреть список установленных куки.
