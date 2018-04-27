@@ -1,0 +1,22 @@
+.block{
+	border: 4px solid black;
+	width: 400px;
+	border-radius: 7px;
+	background: silver;
+	margin: 2% 0 0 2%;
+}
+
+.msg{
+	text-align: center;
+	font-weight: bold;
+}
+
+input {
+	margin-left: 5%;
+	width: 90%;
+	margin-bottom: 2%;
+}
+
+b {
+	margin-left: 5%;
+}
