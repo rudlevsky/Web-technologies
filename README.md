@@ -28,6 +28,10 @@ Laboratory task #7.
 
 Write a script that allows the user to install arbitrary cookies (with arbitrary name and value, for an arbitrary period), view the list of installed cookies.
 
+Laboratory task #8.
+
+Write a script that subscribes to the newsletter. The subscription is made after confirmation, the information about which is sent to the e-mail + attachments specified by the user.
+
 Лабораторное задание #1. 
 
 Создать простой сайт, используя html.
@@ -55,3 +59,7 @@ Write a script that allows the user to install arbitrary cookies (with arbitrary
 Лабораторное задание #7.
 
 Написать скрипт, позволяющий установить пользователю произвольную куки (с произвольным именем и значением, на произвольный срок), просмотреть список установленных куки.
+
+Лабораторное задание #8.
+
+Написать скрипт, осуществляющий подписку пользователя на рассылку. Подписка производится после подтверждения, информация о котором выслана на указанный пользователем e-mail + вложения.
